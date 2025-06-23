@@ -6,6 +6,7 @@ import Home from './pages/home';
 import About from './pages/about';
 import Project from './pages/projects';
 import Contact from './pages/contact';
+import Resume from './pages/resume';
 import Footer from './pages/footer';
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
         <Home />
         <About />
         <Project />
+        <Resume />
         <Contact />
       </div>
         <Footer />

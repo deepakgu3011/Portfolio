@@ -58,7 +58,7 @@ function Nav() {
                             <a className="nav-link" href="#project" onClick={handleNavLinkClick}>Projects</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="/Deepak_Resume.pdf" download onClick={handleNavLinkClick}>
+                            <a className="nav-link" href="#resume" download onClick={handleNavLinkClick}>
                                 Get My Resume
                             </a>
                         </li>
